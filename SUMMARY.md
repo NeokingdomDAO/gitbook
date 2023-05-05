@@ -4,4 +4,4 @@
 
 ## 🎉 Welcome
 
-* [Shareholder Agreement](welcome/shareholder-agreement.md)
+* [Official Documentation](welcome/official-documentation.md)
