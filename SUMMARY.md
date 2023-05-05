@@ -4,4 +4,4 @@
 
 ## 🎉 Welcome
 
-* [Page 1](welcome/page-1.md)
+* [Shareholder Agreement](welcome/shareholder-agreement.md)
