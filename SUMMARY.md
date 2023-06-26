@@ -15,12 +15,14 @@
 
 ## Tokenomics
 
-* [Page 2](tokenomics/page-2.md)
+* [Overview](tokenomics/overview.md)
 
 ## 🥰 Team
 
-* [Page 3](team/page-3.md)
+* [List of Contributors](team/list-of-contributors.md)
+* [Application Process](team/application-process.md)
+* [Contributor Openings](team/contributor-openings.md)
 
-## FAQs
+## ⁉ FAQs
 
-* [Page 4](faqs/page-4.md)
+* [Frequently Asked Questions](faqs/frequently-asked-questions.md)
