@@ -15,9 +15,9 @@
 
 * [NEOKingdom DAO tokenomics](tokenomics/neokingdom-dao-tokenomics.md)
 
-## 🥰 Team
+## 🥰 Contributors
 
-* [Application Process](team/application-process.md)
+* [Application Process](contributors/application-process.md)
 
 ## ⁉ FAQs
 
