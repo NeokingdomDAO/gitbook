@@ -14,7 +14,7 @@
 
 ## Tokenomics
 
-* [Overview](tokenomics/overview.md)
+* [NEOKingdom DAO tokenomics](tokenomics/neokingdom-dao-tokenomics.md)
 
 ## 🥰 Team
 
