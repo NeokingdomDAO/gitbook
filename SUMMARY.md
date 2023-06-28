@@ -5,7 +5,6 @@
 ## 🎉 Welcome
 
 * [Introduction](welcome/introduction.md)
-* [Page 1](welcome/page-1.md)
 
 ## 🧑⚖ Legal
 
