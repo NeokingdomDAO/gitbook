@@ -11,15 +11,13 @@
 * [Articles of Association](legal/articles-of-association.md)
 * [Shareholder Agreement](legal/shareholder-agreement.md)
 
-## Tokenomics
+## 🟣 Tokenomics
 
 * [NEOKingdom DAO tokenomics](tokenomics/neokingdom-dao-tokenomics.md)
 
 ## 🥰 Team
 
-* [List of Contributors](team/list-of-contributors.md)
 * [Application Process](team/application-process.md)
-* [Contributor Openings](team/contributor-openings.md)
 
 ## ⁉ FAQs
 
