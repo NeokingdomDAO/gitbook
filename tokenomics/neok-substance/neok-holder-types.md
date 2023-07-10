@@ -1,0 +1,2 @@
+# NEOK Holder Types
+
