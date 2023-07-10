@@ -2,12 +2,14 @@
 
 This summary gives a generalized overview of: 
 
-* NEOK Substance;
-* Holder Types;
+* Private Limited Company;
+* NEOK Holder Types;
 * NEOK Minting;
 * NEOK Benefiting;
 * NEOK Valuation;
 * NEOK Disposal
+
+of NEOKingdom DAO tokens (i.e. NEOK)
 
 It serves the purpose of making the wider public understand the tokenomics of NEOK better in order to make a more educated decision about whether to acquire, hold or dispose of NEOK. A very simplified visual explanation of NEOK operational aspects is in Annex 1.
 
