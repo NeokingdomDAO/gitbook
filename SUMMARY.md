@@ -10,7 +10,6 @@
 
 * [Articles of Association](legal/articles-of-association.md)
 * [Shareholder Agreement](legal/shareholder-agreement.md)
-* [Investor Transparency Report](legal/investor-transparency-report.md)
 
 ## 🟣 Tokenomics
 
