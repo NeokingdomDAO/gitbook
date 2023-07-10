@@ -25,6 +25,7 @@
   * [NEOK Holder Types](tokenomics/neok-substance/neok-holder-types.md)
   * [Contributors](tokenomics/neok-substance/contributors.md)
   * [Investors](tokenomics/neok-substance/investors.md)
+  * [Impact Investors](tokenomics/neok-substance/impact-investors.md)
   * [Traders](tokenomics/neok-substance/traders.md)
   * [NEOK Minting](tokenomics/neok-substance/neok-minting.md)
   * [NEOK Benefits](tokenomics/neok-substance/neok-benefits.md)
