@@ -38,3 +38,7 @@
 ## ⁉ FAQs
 
 * [Frequently Asked Questions](faqs/frequently-asked-questions.md)
+
+## ℹ Yearly Recap
+
+* [Recap 2022](yearly-recap/recap-2022.md)
