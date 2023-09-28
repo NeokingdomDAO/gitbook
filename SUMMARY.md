@@ -8,6 +8,8 @@
 
 ## 🧑⚖ Legal
 
+* [Shareholder Agreement (new)](legal/shareholder-agreement-new.md)
+* [Articles of Association (new)](legal/articles-of-association-new.md)
 * [Articles of Association](legal/articles-of-association.md)
 * [Shareholder Agreement](legal/shareholder-agreement.md)
 
