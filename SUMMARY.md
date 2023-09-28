@@ -1,10 +1,8 @@
 # Table of contents
 
-* [Welcome to the rabbit hole](README.md)
-
 ## 🎉 Welcome
 
-* [Introduction](welcome/introduction/README.md)
+* [Introduction](README.md)
   * [Why NEOKingdom DAO?](welcome/introduction/why-neokingdom-dao.md)
   * [How do we do it?](welcome/introduction/how-do-we-do-it.md)
 
