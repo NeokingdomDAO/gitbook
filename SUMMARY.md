@@ -8,8 +8,8 @@
 
 ## 🧑⚖ Legal
 
-* [Shareholder Agreement](legal/shareholder-agreement.md)
-* [Articles of Association](legal/articles-of-association.md)
+* [Articles of Association](legal/articles-of-association-new.md)
+* [Shareholder Agreement](legal/shareholder-agreement-new.md)
 
 ## 🟣 Tokenomics
 
