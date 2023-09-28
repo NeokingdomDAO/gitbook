@@ -4,7 +4,9 @@
 
 ## 🎉 Welcome
 
-* [Introduction](welcome/introduction.md)
+* [Introduction](welcome/introduction/README.md)
+  * [Why NEOKingdom DAO?](welcome/introduction/why-neokingdom-dao.md)
+  * [How do we do it?](welcome/introduction/how-do-we-do-it.md)
 
 ## 🧑⚖ Legal
 
