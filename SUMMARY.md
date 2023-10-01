@@ -12,6 +12,9 @@
   * [Contributors](roles/shareholders/contributors/README.md)
     * [Voting](roles/shareholders/contributors/voting.md)
     * [Exiting](roles/shareholders/contributors/exiting.md)
+  * [Investors](roles/shareholders/investors/README.md)
+    * [Voting](roles/shareholders/investors/voting.md)
+    * [Exiting](roles/shareholders/investors/exiting.md)
 
 ## 🧑⚖ Legal
 
