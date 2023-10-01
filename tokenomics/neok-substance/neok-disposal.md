@@ -7,5 +7,3 @@ NEOKingdom DAO AoA and SHA enforce a set of rules on the disposal of NEOK. Those
 
 This approach gives contributors a certain security against short-term market failures while preserving the classical logic that investors/traders bear more financial risk but also always have the possibility to exit at their chosen time with chosen price.
 
-<figure><img src="../../.gitbook/assets/Neokingdom_tokenomics_30.09.2023.jpg" alt=""><figcaption><p>Annex 1</p></figcaption></figure>
-
