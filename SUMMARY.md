@@ -31,13 +31,19 @@
   * [NEOK Valuation](tokenomics/neok-substance/neok-valuation.md)
   * [NEOK Disposal](tokenomics/neok-substance/neok-disposal.md)
 
-## 🥰 Contributors
-
-* [Application Process](contributors/application-process.md)
-
 ## ⁉ FAQs
 
-* [Frequently Asked Questions](faqs/frequently-asked-questions.md)
+* [Frequently Asked Questions](faqs/frequently-asked-questions/README.md)
+  * [What is THE NEOKingdom DAO?](faqs/frequently-asked-questions/what-is-the-neokingdom-dao.md)
+  * [What is a Neokingdom?](faqs/frequently-asked-questions/what-is-a-neokingdom.md)
+  * [What is the constitution?](faqs/frequently-asked-questions/what-is-the-constitution.md)
+  * [What is the NEOCommonwealth?](faqs/frequently-asked-questions/what-is-the-neocommonwealth.md)
+  * [What is DAOcracy?](faqs/frequently-asked-questions/what-is-daocracy.md)
+  * [What is a contributor?](faqs/frequently-asked-questions/what-is-a-contributor.md)
+  * [How to become a contributor?](faqs/frequently-asked-questions/how-to-become-a-contributor.md)
+  * [What is an investor?](faqs/frequently-asked-questions/what-is-an-investor.md)
+  * [How to become an investor?](faqs/frequently-asked-questions/how-to-become-an-investor.md)
+  * [How can a new entity join the NEOCommonwealth?](faqs/frequently-asked-questions/how-can-a-new-entity-join-the-neocommonwealth.md)
 
 ## ℹ Yearly Recap
 
