@@ -6,3 +6,6 @@ NEOKingdom DAO AoA and SHA enforce a set of rules on the disposal of NEOK. Those
 2. Investors, impact investors, and traders do not have the right to acquire tokens from contributors with a fixed price of 1 NEOK = 1 EUR, and they have no right to redeem NEOK against NEOKingdom also, but they have the freedom to sell their NEOK freely whenever they want with whatever price they want on the secondary market. There are no vesting or similar rules related to NEOK unless specifically negotiated with an impact investor.
 
 This approach gives contributors a certain security against short-term market failures while preserving the classical logic that investors/traders bear more financial risk but also always have the possibility to exit at their chosen time with chosen price.
+
+<figure><img src="../../.gitbook/assets/Neokingdom_tokenomics_30.09.2023.jpg" alt=""><figcaption><p>Annex 1</p></figcaption></figure>
+
