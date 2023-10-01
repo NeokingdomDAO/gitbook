@@ -6,6 +6,13 @@
   * [Why NEOKingdom DAO?](welcome/introduction/why-neokingdom-dao.md)
   * [How do we do it?](welcome/introduction/how-do-we-do-it.md)
 
+## 🥰 Roles
+
+* [Shareholders](roles/shareholders/README.md)
+  * [Contributors](roles/shareholders/contributors/README.md)
+    * [Voting](roles/shareholders/contributors/voting.md)
+    * [Exiting](roles/shareholders/contributors/exiting.md)
+
 ## 🧑⚖ Legal
 
 * [Articles of Association](legal/articles-of-association-new.md)
