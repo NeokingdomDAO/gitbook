@@ -1,12 +1,16 @@
 # Impact Investors
 
-There are three types of shareholders of the NEOKingdom DAO, each with different&#x20;
-
-rights and obligations (as stated in the Articles of Association of the DAO). A Shareholder shall always hold only 1 share of DAO with the nominal value of 1 Euro. A Shareholder is prohibited to acquire additional shares.
-
-Any individual interested in participating in the NEOKingdom DAO as an Investor can submit their KYC and other relevant documents to the DAO. If the person is approved, they will be gifted 1 share of the NEOKingdom DAO. A Shareholder shall always hold only 1 share of DAO with the nominal value of 1 Euro and is prohibited from acquiring additional shares.
+Any individual interested in participating in the NEOKingdom DAO as an Investor can submit their KYC and other relevant documents to the DAO. If the person is approved, they will be gifted 1 share of the NEOKingdom DAO.&#x20;
 
 An Impact Investor or Regular Investor can freely transfer their tokens between blockchain addresses and dispose of them without any restrictions.
+
+* they must be KYC-compliant and entered into the shareholders register;
+* they can be natural persons or entities;
+* they can invest money and receive NEOK in return;
+* they have the right to vote on resolutions (based on the number of NEOK they hold);
+* they have the right to receive profits (based on the number of NEOK they hold);
+* they can sell NEOK on the secondary market whenever they want;
+* their NEOK is taken into account while calculating the allotment of the NEOKingdom DAO ownership, governance, and dividend rights between all of its members.
 
 ### Voting&#x20;
 

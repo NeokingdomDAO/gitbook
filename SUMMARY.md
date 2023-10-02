@@ -3,15 +3,16 @@
 ## 🎉 Welcome
 
 * [Introduction](README.md)
-  * [Why NEOKingdom DAO?](welcome/introduction/why-neokingdom-dao.md)
-  * [How do we do it?](welcome/introduction/how-do-we-do-it.md)
+* [Why NEOKingdom DAO?](welcome/why-neokingdom-dao.md)
+* [How do we do it?](welcome/how-do-we-do-it.md)
 
-## 🥰 Roles
+## 🥰 Shareholders
 
-* [Shareholders](roles/shareholders/README.md)
-  * [Contributors](roles/shareholders/contributors.md)
-  * [Investors](roles/shareholders/investors.md)
-  * [Impact Investors](roles/shareholders/impact-investors.md)
+* [Intro](shareholders/intro.md)
+* [Contributors](shareholders/contributors.md)
+* [Investors](shareholders/investors.md)
+* [Impact Investors](shareholders/impact-investors.md)
+* [Trader](shareholders/trader.md)
 
 ## 🧑⚖ Legal
 
