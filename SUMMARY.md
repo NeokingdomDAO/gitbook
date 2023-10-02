@@ -40,6 +40,10 @@
   * [NEOK Valuation](tokenomics/neok-substance/neok-valuation.md)
   * [NEOK Disposal](tokenomics/neok-substance/neok-disposal.md)
 
+## Technology
+
+* [dApp - High-level overview](technology/dapp-high-level-overview.md)
+
 ## ⁉ FAQs
 
 * [What is THE NEOKingdom DAO?](faqs/what-is-the-neokingdom-dao.md)
