@@ -3,19 +3,20 @@
 ## 🎉 Welcome
 
 * [Introduction](README.md)
-* [Why NEOKingdom DAO?](welcome/why-neokingdom-dao.md)
-* [How do we do it?](welcome/how-do-we-do-it.md)
+* [Why NEOKingdom DAO?](welcome/introduction/why-neokingdom-dao.md)
+* [How do we do it?](welcome/introduction/how-do-we-do-it.md)
 
 ## 🥰 Shareholders
 
-* [Intro](shareholders/intro.md)
-* [Contributors](shareholders/contributors.md)
-* [Investors](shareholders/investors.md)
-* [Impact Investors](shareholders/impact-investors.md)
+* [Intro](roles/shareholders/README.md)
+* [Contributors](roles/shareholders/contributors.md)
+* [Investors](roles/shareholders/investors.md)
+* [Impact Investors](roles/shareholders/impact-investors.md)
 * [Trader](shareholders/trader.md)
 
 ## 🧑⚖ Legal
 
+* [Token Classification by PWC](legal/token-classification-by-pwc.md)
 * [Articles of Association](legal/articles-of-association-new.md)
 * [Shareholder Agreement](legal/shareholder-agreement-new.md)
 
@@ -41,17 +42,14 @@
 
 ## ⁉ FAQs
 
-* [Frequently Asked Questions](faqs/frequently-asked-questions/README.md)
-  * [What is THE NEOKingdom DAO?](faqs/frequently-asked-questions/what-is-the-neokingdom-dao.md)
-  * [What is a Neokingdom?](faqs/frequently-asked-questions/what-is-a-neokingdom.md)
-  * [What is the constitution?](faqs/frequently-asked-questions/what-is-the-constitution.md)
-  * [What is the NEOCommonwealth?](faqs/frequently-asked-questions/what-is-the-neocommonwealth.md)
-  * [What is DAOcracy?](faqs/frequently-asked-questions/what-is-daocracy.md)
-  * [What is a contributor?](faqs/frequently-asked-questions/what-is-a-contributor.md)
-  * [How to become a contributor?](faqs/frequently-asked-questions/how-to-become-a-contributor.md)
-  * [What is an investor?](faqs/frequently-asked-questions/what-is-an-investor.md)
-  * [How to become an investor?](faqs/frequently-asked-questions/how-to-become-an-investor.md)
-  * [How can a new entity join the NEOCommonwealth?](faqs/frequently-asked-questions/how-can-a-new-entity-join-the-neocommonwealth.md)
+* [What is THE NEOKingdom DAO?](faqs/what-is-the-neokingdom-dao.md)
+* [What is a Neokingdom?](faqs/what-is-a-neokingdom.md)
+* [What is the constitution?](faqs/what-is-the-constitution.md)
+* [What is DAOcracy?](faqs/what-is-daocracy.md)
+* [How to become a Contributor?](faqs/how-to-become-a-contributor.md)
+* [How to become an Investor?](faqs/how-to-become-an-investor.md)
+* [What is the NEOCommonwealth?](faqs/what-is-the-neocommonwealth.md)
+* [How can a new entity join the NEOCommonwealth?](faqs/how-can-a-new-entity-join-the-neocommonwealth.md)
 
 ## ℹ Yearly Recap
 
