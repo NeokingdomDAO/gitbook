@@ -16,3 +16,13 @@ Of the three categories of shareholders, Contributors have both the widest right
 * they have the right to buy NEOK from other contributors on the internal market with a fixed price of 1 NEOK = 1 EUR;
 * they cannot sell NEOK on the secondary market without offering NEOK before to other contributors with a fixed price of 1 NEOK = 1 EUR;
 * their NEOK is taken into account while calculating the allotment of the NEOKingdom DAO ownership, governance, and dividend rights between all of its members.
+
+### Voting&#x20;
+
+As core members of the DAO, Contributors can participate in DAO voting, meaning they can play a role in the governing of the DAO. Voting rights are not distributed evenly among the shareholders of DAO but instead, correlate to the amount of NEOK held by each voting-eligible shareholder and the respective rights of each of the categories of shareholders. A Contributor can also delegate their voting right to another Contributor.&#x20;
+
+### Exiting
+
+A Contributor can leave the DAO by notifying the DAO and gifting back or selling back their share of the DAO at their nominal value of 1 Euro per share. This action can be taken only after the Contributor has offered all of their NEOK tokens to the other Contributors.
+
+\

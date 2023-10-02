@@ -9,12 +9,9 @@
 ## 🥰 Roles
 
 * [Shareholders](roles/shareholders/README.md)
-  * [Contributors](roles/shareholders/contributors/README.md)
-    * [Voting](roles/shareholders/contributors/voting.md)
-    * [Exiting](roles/shareholders/contributors/exiting.md)
-  * [Investors](roles/shareholders/investors/README.md)
-    * [Voting](roles/shareholders/investors/voting.md)
-    * [Exiting](roles/shareholders/investors/exiting.md)
+  * [Contributors](roles/shareholders/contributors.md)
+  * [Investors](roles/shareholders/investors.md)
+  * [Impact Investors](roles/shareholders/impact-investors.md)
 
 ## 🧑⚖ Legal
 

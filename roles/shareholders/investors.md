@@ -13,4 +13,13 @@ This holder type is the entry point for everyone interested in participating in 
 * they can sell NEOK on the secondary market whenever they want;
 * their NEOK is taken into account while calculating the allotment of the NEOKingdom DAO ownership and dividend rights, but not governance rights, between all of its members.
 
+### Voting&#x20;
+
+Investors have a right to receive dividends, but unlike Contributors, they do not have voting rights, meaning they are not able to play a role in the governing of the DAO.
+
+### Exiting
+
+A Regular Investor can leave the DAO at any time, without any restrictions, by notifying the DAO and gifting back or selling back their share of the DAO at their nominal value of 1 Euro per share.
+
+\
 \
