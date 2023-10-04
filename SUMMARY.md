@@ -16,9 +16,13 @@
 
 ## 🧑⚖ Legal
 
-* [Token Classification by PWC](legal/token-classification-by-pwc.md)
+* [Token Analysis by PWC](legal/token-analysis-by-pwc.md)
 * [Articles of Association](legal/articles-of-association-new.md)
 * [Shareholder Agreement](legal/shareholder-agreement-new.md)
+
+## 📊 Investors
+
+* [Investors Transparency Report](investors/investors-transparency-report.md)
 
 ## 🟣 Tokenomics
 
