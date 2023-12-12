@@ -1,9 +1,6 @@
 ---
-description: >-
-  Attached you find the "Summary of Legal and Regulatory Analysis" by PWC. The
-  link will redirect you to NEOKingdom DAO's official website.
+description: Soon, we will add the "Summary of Legal and Regulatory Analysis" by PWC here.
 ---
 
-# Token Classification by PWC
+# Token Analysis by PWC
 
-{% embed url="https://www.neokingdom.org/token-classification/" %}
