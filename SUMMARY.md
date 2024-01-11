@@ -16,7 +16,7 @@
 
 ## 🧑⚖ Legal
 
-* [Token Analysis by PWC](legal/token-analysis-by-pwc.md)
+* [Token Analysis](legal/token-analysis.md)
 * [Articles of Association](legal/articles-of-association-new.md)
 * [Shareholder Agreement](legal/shareholder-agreement-new.md)
 
