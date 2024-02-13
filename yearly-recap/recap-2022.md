@@ -51,7 +51,7 @@ The mission of the NeoCommonwealth is to recognize the energy, enthusiasm and co
 The next step on the road map, which was then slated for 21.12.2022 was the formation and foundation of the NEOkingdom DAO as the crown to foster the entire ecosystem.
 
 * In the meantime Marko Talur got really busy crafting the new documents and working out the legal details.
-* Simultaneously Price Water Coopers Estonia (PWC) is working on a legal assessment that the NEOKindom DAO Token (neok) is NOT a security.
+* Simultaneously one of the big four consulting companies is working on a legal assessment that the NEOKindom DAO Token (neok) is NOT a security.
 * The tech team shipped the automation of the monthly token minting.
 * The secondary marked module gained priority.
 * Build a custom oracle to integrate with the EEuro stable coin.
