@@ -2,6 +2,8 @@
 
 Any individual interested in participating in the NEOKingdom DAO as a Contributor can submit their KYC and other relevant documents to the DAO. If the person is approved, they will be gifted 1 share of the NEOKingdom DAO.&#x20;
 
+<figure><img src="../../.gitbook/assets/Contributor.png" alt=""><figcaption></figcaption></figure>
+
 A Contributor is a shareholder of NEOKingdom DAO who, by a resolution of the majority of shareholders, has been given the right to contribute time to the DAO. Their contributions are tracked in time, which triggers the minting of NEOK tokens. These tokens give access to ownership, dividends, and voting rights in the DAO.&#x20;
 
 Of the three categories of shareholders, Contributors have both the widest rights as shareholders and the most restrictions:
