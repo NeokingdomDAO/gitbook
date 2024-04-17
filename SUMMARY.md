@@ -14,7 +14,7 @@
 * [Impact Investors](roles/shareholders/impact-investors.md)
 * [Trader](shareholders/trader.md)
 
-## 🧑⚖ Legal
+## 🧑‍⚖️ Legal
 
 * [Token Analysis](legal/token-analysis.md)
 * [Articles of Association](legal/articles-of-association-new.md)
@@ -48,7 +48,7 @@
 
 * [dApp - High-level overview](technology/dapp-high-level-overview.md)
 
-## ⁉ FAQs
+## ⁉️ FAQs
 
 * [What is THE NEOKingdom DAO?](faqs/what-is-the-neokingdom-dao.md)
 * [What is a Neokingdom?](faqs/what-is-a-neokingdom.md)
@@ -59,6 +59,6 @@
 * [What is the NEOCommonwealth?](faqs/what-is-the-neocommonwealth.md)
 * [How can a new entity join the NEOCommonwealth?](faqs/how-can-a-new-entity-join-the-neocommonwealth.md)
 
-## ℹ Yearly Recap
+## ℹ️ Yearly Recap
 
 * [Recap 2022](yearly-recap/recap-2022.md)
