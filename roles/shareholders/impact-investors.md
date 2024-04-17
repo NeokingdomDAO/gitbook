@@ -2,6 +2,8 @@
 
 Any individual interested in participating in the NEOKingdom DAO as an Investor can submit their KYC and other relevant documents to the DAO. If the person is approved, they will be gifted 1 share of the NEOKingdom DAO.&#x20;
 
+<figure><img src="../../.gitbook/assets/ImpactInvestor.png" alt=""><figcaption></figcaption></figure>
+
 An Impact Investor or Regular Investor can freely transfer their tokens between blockchain addresses and dispose of them without any restrictions.
 
 * they must be KYC-compliant and entered into the shareholders register;
